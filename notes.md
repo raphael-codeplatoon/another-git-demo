@@ -35,5 +35,8 @@ type a colon for ex mode:
 
 
 # GIT
+git is a commandline program for tracking changes to a project
+github.com is a website that hosts git repositories, that enables us to collaborate with each other
 
 `git init` create an empty git repo. creates the `.git`. folder. 
+`git status` ask git about the current status of the repo
