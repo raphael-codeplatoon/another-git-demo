@@ -40,3 +40,5 @@ github.com is a website that hosts git repositories, that enables us to collabor
 
 `git init` create an empty git repo. creates the `.git`. folder. 
 `git status` ask git about the current status of the repo
+`git add .` (stage) prepare  all files to be committed
+`git commit -m "Message"` commit staged files
